@@ -45,6 +45,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+
+Me ajude a criar um roteiro. Imagine que vc é um nerd que adora boardgames e o assunto é sobre o jogo Mansions of Madness. Fale sobre o jogo e foque em mostrar as diferenças entre a primeira e segunda versão do jogos, mostrando as vantagens e desvantagens da atualização. da versão. No final sugira o nome de três jogos similares, para os seguidores experimentarem também. Use uma linguagem informal, com gírias utilizadas no mundo de boardgames. 
+
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
