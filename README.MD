@@ -18,9 +18,7 @@
 </a>
 </p>
 
-<p align="center">
-  <span style="font-size: 24px; color: blue;">Preview do Podcast</span>
-</p>
+<h2 align="center" style="color: blue;">Preview do Podcast</h2>
 
 
 <div align="center">
