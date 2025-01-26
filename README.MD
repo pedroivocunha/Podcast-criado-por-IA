@@ -21,7 +21,7 @@
 <h2 align="center" style="color: blue;">Preview do Podcast</h2>
 
 <p align="center">
-  <audio src="output/Podcast-Mansions-of-Madness.MP3">Acessar o áudio do podcast</a>
+  <a href="https://github.com/pedroivocunha/Podcast-criado-por-IA/blob/c942103132718add44c8e03897cd070bdc655bf6/output/Podcast-Mansions_of_Madness.MP3>Acessar o áudio do podcast</a>
 </p>
 
 
