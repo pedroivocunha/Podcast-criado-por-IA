@@ -20,6 +20,9 @@
 
 <h2 align="center" style="color: blue;">Preview do Podcast</h2>
 
+<p align="center">
+  <a href="output/Podcast-Mansions-of-Madness.MP3">Acessar o áudio do podcast</a>
+</p>
 
 <div align="center">
   <audio src="output/Podcast-Mansions-of-Madness.MP3" controls title="Podcast editado"></audio>
