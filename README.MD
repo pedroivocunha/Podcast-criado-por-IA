@@ -18,9 +18,10 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
+<p align="center" style="font-size: 24px; color: blue;">
+  Preview do Podcast
 </p>
+
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
