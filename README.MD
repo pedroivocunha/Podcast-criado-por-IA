@@ -18,13 +18,13 @@
 </a>
 </p>
 
-<p align="center" style="font-size: 24px; color: blue;">
-  Preview do Podcast
+<p align="center">
+  <span style="font-size: 24px; color: blue;">Preview do Podcast</span>
 </p>
 
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Podcast - Mansions of Madness.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
