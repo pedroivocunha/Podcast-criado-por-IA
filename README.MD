@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="assets/um apresentador de podcast com uma estante cheia de caixa de boardgames atrás dele.png"
     width="300"
 />
 </p>
